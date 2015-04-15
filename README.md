@@ -6,7 +6,7 @@ Based on MIT Team's of 2.009 and ASME professional code of ethics.
 1. Jan Edwin Vincent G. Maghuyop
 2. Van Victor L. Lim
 3. Rodel Rebucas
-4. Michaele John Apale
+4. Mikhaile John G. Apale
 
 **We members of the team, agree to uphold the following principles:**
 
